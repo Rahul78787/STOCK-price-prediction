@@ -1,4 +1,4 @@
- STOCK-price-prediction   Using Stacked LSTM- Deep Learning
+ STOCK-price-prediction   
 Project-Stock Sentiment Analysis using News Headlines Machine Learning
 
 
